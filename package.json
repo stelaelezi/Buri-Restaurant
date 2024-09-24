@@ -1,0 +1,16 @@
+{
+  "name": "buri-restaurant",
+  "version": "1.0.0",
+  "description": "Restaurant Webpage",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stela Elezi",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
